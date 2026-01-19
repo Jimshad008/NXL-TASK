@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839628851787",
+    "project_id": "nxl-task-d35a8",
+    "storage_bucket": "nxl-task-d35a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839628851787:android:d5a6efef7eceb9b359dbce",
+        "android_client_info": {
+          "package_name": "com.example.nxl_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8APnGyPqHf_gtSH3iGMy89zclNbSIBf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
