@@ -1,7 +1,6 @@
 import 'dart:ui';
 
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -12,7 +11,6 @@ import 'package:nxl_task/util/ui_helper.dart';
 import '../app/app_text_style.dart';
 import '../app/palette.dart';
 import '../app/theme.dart';
-import '../features/auth/controller/login_controller.dart';
 import '../widgets/custom_elevated_button.dart';
 import 'navigation_service.dart';
 
