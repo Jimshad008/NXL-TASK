@@ -110,7 +110,7 @@ class LoginController extends _$LoginController {
 
 
 
-        Alert.showToast("E-mail de réinitialisation du mot de passe envoyé", isLong: true);
+        Alert.showToast("Password reset email sent.", isLong: true);
 
 
         NavigationService.pushReplacement(page: AppRouter.login);
